@@ -18,4 +18,4 @@
 
 [Here](files/IE582_HW3.html) is my report for Homework 3.
 
-[Here](files/IE582_HW3 kodlu.html) is my report for Homework 3 with codes.
+[Here](files/IE582_HW3_kodlu.html) is my report for Homework 3 with codes.
