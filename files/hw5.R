@@ -3,6 +3,8 @@ library(cluster)
 setwd("/Users/elifkonyar/Desktop/IE 582/HW5")
 data<-fread("Musk1.csv")
 
+##github deneme
+
 data_distance<-data[,c(-1,-2)]
 
 #dist matrix
